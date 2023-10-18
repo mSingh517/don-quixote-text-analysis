@@ -1,0 +1,42 @@
+Analysis of the chapter:
+The total number of paragraphs is 8.
+The total number of sentences is 51.
+The total number of words is 2014.
+The average number of words per sentence is 39.49
+The average number of sentences per paragraph is 6.38
+The total number of sentences with query "he" is 42.
+The total number of sentences with query "mancha" is 3.
+
+A "summary" of the chapter follows:
+In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing.
+               --|--  Paragraph 1: 9 hidden sentences  --|--
+It will be enough not to stray a hair’s breadth from the truth in the telling of it.
+
+You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property.
+               --|--  Paragraph 2: 8 hidden sentences  --|--
+He commended, however, the author’s way of ending his book with the promise of that interminable adventure, and many a time was he tempted to take up his pen and finish it properly as is there proposed, which no doubt he would have done, and made a successful piece of work of it too, had not greater and more absorbing thoughts prevented him.
+
+Many an argument did he have with the curate of his village (a learned man, and a graduate of Siguenza) as to which had been the better knight, Palmerin of England or Amadis of Gaul.
+               --|--  Paragraph 3: 11 hidden sentences  --|--
+To have a bout of kicking at that traitor of a Ganelon he would have given his housekeeper, and his niece into the bargain.
+
+In short, his wits being quite gone, he hit upon the strangest notion that ever madman in this world hit upon, and that was that he fancied it was right and requisite, as well for the support of his own honour as for the service of his country, that he should make a knight-errant of himself, roaming the world over in full armour and on horseback in quest of adventures, and putting in practice himself all that he had read of as being the usual practices of knights-errant.
+               --|--  Paragraph 4: 4 hidden sentences  --|--
+And so, led away by the intense enjoyment he found in these pleasant fancies, he set himself forthwith to put his scheme into execution.
+
+The first thing he did was to clean up some armour that had belonged to his great-grandfather, and had been for ages lying forgotten in a corner eaten with rust and covered with mildew.
+               --|--  Paragraph 5: 6 hidden sentences  --|--
+And then, not caring to try any more experiments with it, he passed it and adopted it as a helmet of the most perfect construction.
+
+He next proceeded to inspect his hack, which, with more quartos than a real and more blemishes than the steed of Gonela, that tantum pellis et ossa fuit, surpassed in his eyes the Bucephalus of Alexander or the Babieca of the Cid.
+               --|--  Paragraph 6: 4 hidden sentences  --|--
+And so, after having composed, struck out, rejected, added to, unmade, and remade a multitude of names out of his memory and fancy, he decided upon calling him Rocinante, a name, to his thinking, lofty, sonorous, and significant of his condition as a hack before he became what he now was, the first and foremost of all the hacks in the world.
+
+Having got a name for his horse so much to his taste, he was anxious to get one for himself, and he was eight days more pondering over this point, till at last he made up his mind to call himself Don Quixote, whence, as has been already said, the authors of this veracious history have inferred that his name must have been beyond a doubt Quixada, and not Quesada as others would have it.
+               --|--  Paragraph 7: 2 hidden sentences  --|--
+Recollecting, however, that the valiant Amadis was not content to call himself curtly Amadis and nothing more, but added the name of his kingdom and country to make it famous, and called himself Amadis of Gaul, he, like a good knight, resolved to add on the name of his, and to style himself Don Quixote of La Mancha, whereby, he considered, he described accurately his origin and country, and did honour to it in taking his surname from it.
+
+So then, his armour being furbished, his morion turned into a helmet, his hack christened, and he himself confirmed, he came to the conclusion that nothing more was needed now but to look out for a lady to be in love with.
+               --|--  Paragraph 8: 7 hidden sentences  --|--
+And after some search for a name which should not be out of harmony with her own, and should suggest and indicate that of a princess and great lady, he decided upon calling her Dulcinea del Toboso she being of El Toboso a name, to his mind, musical, uncommon, and significant, like all those he had already bestowed upon himself and the things belonging to him.
+
